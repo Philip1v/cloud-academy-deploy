@@ -191,7 +191,7 @@ export default function App() {
         <div className="hero-badge">🎓 Trusted by 200,000+ cloud professionals</div>
         <h1>
           Master the Cloud.<br />
-          <span>Ship with Confidence.</span>
+          <span>Deployed via CI/CD.</span>
         </h1>
         <p className="hero-subtitle">
           Hands-on courses, real cloud labs, and certification prep — all in one place.
